@@ -1,0 +1,77 @@
+{
+	"spdxDocument" : {
+		"specVersion" : "1.2",
+		"dataLicense" : "CC-1.0",
+		"comment" : "",
+		"creationInfo" :{
+			"creator": "",
+			"created": "2015-04-27 04:45:49.939137",
+			"comment": "",
+			"licenseListVersion": "1.19"
+		},
+		"packageInfo" :{
+			"name" : "SPDXPackagedFiles.zip",
+			"versioninfo" : "",
+			"PackageFileName" : "SPDXPackagedFiles.zip",
+			"supplier" : "",
+			"originator" : "",
+			"downloadLocation" : "",
+			"packageVerificationCode" : {
+				"pacakgeVerificationCodeValue" : "3a4c5d29845e774a2374f117ad3bd90b14cc36a0",
+				"packageVerificationCodeExcludedFile" : "None"
+			},
+			"checksum" : {
+				"algorithm" : "SHA1",
+				"checksumValue" : "0ae1ecaeb34ab1356840ac5a1fc8289d386f882d"
+			},
+			"homepage" : "",
+			"sourceInfo" : "",
+			"licenseConcluded" : "NO ASSERTION",
+			"licenseDeclared" : "NO ASSERTION",
+			"licenseInfoFromFiles" : [
+				"LicenseRef-0"
+			],
+			"licenseComments" : "",
+			"copyrightText" : "",
+			"summary" : "",
+			"description" : ""
+		}
+,
+		"fileInfo" : [				{
+				"fileName" : "LICENSE",
+				"fileType" : "Unknown",
+				"checksum" : {
+					"algorithm" : "SHA1",
+					"checksumValue" : "c700a8b9312d24bdc57570f7d6a131cf63d89016"
+				},
+				"licenseConcluded" : "NO ASSERTION",
+				"licenseInfoInFile" : [
+					"Apache-2.0
+"
+				],
+				"licenseComments": "#FOSSology Apache-2.0
+",
+				"copyrightText": "",
+				"artifactOf" : [
+				],
+				"comment" : "",
+				"noticeText" : "",
+				"contributor" : "",
+				"fileDependency" : [
+				]
+			}
+		],
+		"licensingInfo" : [				{
+				"licenseId" : "LicenseRef-0",
+				"licenseName" : "Apache-2.0
+",
+				"extractedText" : "",
+				"licenseCrossReference" : [
+				],
+				"comment" : "#FOSSology Apache-2.0
+"
+			}
+		]
+	}
+}
+
