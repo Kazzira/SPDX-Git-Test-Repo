@@ -5,7 +5,7 @@
 		"comment" : "",
 		"creationInfo" :{
 			"creator": "",
-			"created": "2015-05-05 12:04:53.330366",
+			"created": "2015-05-05 12:29:17.987245",
 			"comment": "",
 			"licenseListVersion": "1.19"
 		},
@@ -22,7 +22,7 @@
 			},
 			"checksum" : {
 				"algorithm" : "SHA1",
-				"checksumValue" : "f5d84fb251e2774bcfc4b622a1cb6689d8af5625"
+				"checksumValue" : "c4b4dedc31a95d83aba2cba2ec8223bcb2a17f64"
 			},
 			"homepage" : "",
 			"sourceInfo" : "",
